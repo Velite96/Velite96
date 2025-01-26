@@ -1,8 +1,11 @@
-- 👋 Hi, I’m @Velite96. I'm an efficient Web developer with a passion for crafting engaging and dynamic online experiences.
-- I’m looking to collaborate on projects utilizing my profiency with HTML, CSS and Javascript and Front end frameworks like React, Angular and Vue.
-- 📫 Kindly send a message.
+Hello! I specialize in identifying, engaging, and onboarding top technical talent that drives innovation and growth. With expertise in AI, crypto, and emerging tech industries, I thrive at the intersection of people and technology.
 
-<!---
-Velite96/Velite96 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Key Highlights:
+
+Proven success in sourcing and recruiting specialized talent in highly competitive markets.
+Deep understanding of technical roles, including software development, AI, blockchain, and data science.
+Strategic collaborator with hiring managers to align talent acquisition strategies with business goals.
+Passionate about creating an exceptional candidate experience and fostering inclusive hiring practices.
+Let’s connect and collaborate to build exceptional teams that make an impact!
+
+
